@@ -1,0 +1,8 @@
+prefix=/home/liz/cs424prj3/fruit_bot/install
+
+Name: project3
+Description: Description of project3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+project3
+-DCATKIN_DEVEL_PREFIX=/home/liz/cs424prj3/fruit_bot/devel -DCMAKE_INSTALL_PREFIX=/home/liz/cs424prj3/fruit_bot/install -G Unix Makefiles
